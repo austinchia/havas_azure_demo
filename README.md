@@ -2,7 +2,7 @@
 
 This repository contains the resources for an end-to-end demo project that showcases a data pipeline and reporting solution using Azure and Power BI. The solution simulates a financial billing scenario.
 
-For a full summary of the project, go to the Presentation Deck folder.
+For a full summary of the project, go to the [Presentation Deck](https://github.com/austinchia/havas_azure_demo/tree/5459cbf151671aa1fd6499ceb97cbb51ebb7f2df/Presentation%20Deck) folder.
 
 ## Architecture
 
