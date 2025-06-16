@@ -12,9 +12,11 @@ Azure Blob Storage → Azure Data Factory → Azure SQL Database → Power BI
 
 ## Contents
 
-- `transactions.csv`, `clients.csv`, `channels.csv`: Mock datasets for ingestion
+- `Data` folder: Contatins `transactions.csv`, `clients.csv`, `channels.csv` mock datasets for ingestion
 - `setup_tables.sql`: SQL script to create normalized tables in Azure SQL Database
-- `Azure_PowerBI_Demo_Summary_Deck.pptx`: Summary presentation explaining the project
+- `Presentation Deck` folder: Contains summary presentation explaining the project
+- `Power BI` folder: Contains PBIX file for Power BI project
+- `Screenshots` folder: Contains all relevant screenshots taken throughout the project
 
 ## Deployments Done in Project
 
