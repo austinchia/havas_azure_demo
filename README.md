@@ -2,6 +2,8 @@
 
 This repository contains the resources for an end-to-end demo project that showcases a data pipeline and reporting solution using Azure and Power BI. The solution simulates a financial billing scenario.
 
+For a full summary of the project, go to the Presentation Deck folder.
+
 ## Architecture
 
 **Data Flow:**  
