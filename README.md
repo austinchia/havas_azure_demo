@@ -38,7 +38,7 @@ Azure Blob Storage → Azure Data Factory → Azure SQL Database → Power BI
 - Bar chart: Payments per month
 - Filters by Payment Method
 
-## 📈 Scalability Suggestions
+## Scalability Suggestions
 
 - Add campaign, ad performance, or ROAS data
 - Schedule ADF triggers for automation
