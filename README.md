@@ -31,6 +31,8 @@ Azure Blob Storage → Azure Data Factory → Azure SQL Database → Power BI
    - Cleaned data using Power Query
    - Built KPI visuals, bar charts, and slicers based on the mock billing data
 
+## Power BI Dashboard Result
+
 ## Dashboard Features
 
 - KPI Cards: Collected Billing Amount, Average Transaction, Transactions, Clients
